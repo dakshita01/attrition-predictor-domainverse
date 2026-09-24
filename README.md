@@ -1,9 +1,11 @@
 # Employee Attrition Risk Predictor
 
 **Hackathon:** Arya's Domain Verse 1.0 — Internal Hackathon
+
 **Domain:** Data Science
+
 **Problem Statement:** PS-05 — Employee Attrition Analysis & Prediction
-**Section:** Alpha
+
 **Submission Type:** Individual
 
 ---
