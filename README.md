@@ -7,6 +7,9 @@
 **Submission Type:** Individual
 
 ---
+## Live Demo
+
+[Try the live application](https://attrition-predictor-domainverse.streamlit.app/)
 
 ## Table of Contents
 
