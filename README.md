@@ -70,7 +70,7 @@ Build an employee attrition analysis and prediction system that:
 ## Dataset
 
 **Source:** IBM HR Analytics Employee Attrition & Performance Dataset (Kaggle)
-**Link:** https://www.kaggle.com/datasets/pavansubhash/ibm-hr-analytics-attrition-dataset
+**Link:** https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 The dataset contains 1,470 employee records with 35 attributes. After removing four columns that carry no predictive information (explained below), the following features were used:
 
